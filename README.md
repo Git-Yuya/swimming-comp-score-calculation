@@ -10,3 +10,11 @@ https://github.com/Git-Yuya/swimming-comp-score-calculation/assets/84259422/dd7c
 
 ## CUI (score_caluculation_cui.py)
 <img width="276" alt="cui" src="https://github.com/Git-Yuya/swimming-comp-score-calculation/assets/84259422/8568a639-07ac-4edb-9d0c-e441e1e308bb">
+
+## 実装
+- 言語：
+  <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">
+- GUIライブラリ：
+  <img src="https://img.shields.io/badge/-Tkinter-3776AB.svg?logo=python&style=plastic">
+- 統合開発環境：
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visualstudiocode&style=plastic">
