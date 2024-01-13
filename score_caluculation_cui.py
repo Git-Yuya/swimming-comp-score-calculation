@@ -47,8 +47,10 @@ def main():
             person_school = input(f"{i + 1}位： ")
             
             # Same rank
-            if i == n - 1 or i == n:
+            if i == n - 1:
                 scores_school[person_school] += (score_individual[i] + score_individual[i + 1]) / 2
+            elif i == n:
+                scores_school[person_school] += (score_individual[i - 1] + score_individual[i]) / 2
             # Different rank
             else:
                 scores_school[person_school] += score_individual[i]
