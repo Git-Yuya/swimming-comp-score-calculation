@@ -29,7 +29,7 @@ schools = [
     "School_20"
 ]
 
-# Global variable
+# Global variables
 value = "I"
 school_scores = dict()
 
